@@ -10,4 +10,4 @@ A collection of explainable methods and models focuses on computer vision
 |Grad-Cam| Grad-Cam visualization [original reference](https://arxiv.org/abs/1610.02391) |
 | Vanilla propagation|  |
 | Guided propagation| [original reference](https://arxiv.org/abs/1412.6806) |
-| Score Cam| [original reference](https://arxiv.org/abs/1412.6806) |
+| Score Cam| [original reference](https://arxiv.org/abs/1910.01279) |
