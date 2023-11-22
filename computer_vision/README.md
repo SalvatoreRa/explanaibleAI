@@ -11,3 +11,4 @@ A collection of explainable methods and models focuses on computer vision
 | Vanilla propagation|  |
 | Guided propagation| [original reference](https://arxiv.org/abs/1412.6806) |
 | Score Cam| [original reference](https://arxiv.org/abs/1910.01279) |
+| Guided-Grad-CAM| |
