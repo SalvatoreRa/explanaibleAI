@@ -9,3 +9,4 @@ A collection of explainable methods and models focuses on computer vision
 | Feature maps visualization | Visualization of the feature maps of a convolutional neural network|
 |Grad-Cam| Grad-Cam visualization [original reference](https://arxiv.org/abs/1610.02391) |
 | Vanilla propagation|  |
+| Guided propagation| [original reference](https://arxiv.org/abs/1412.6806) |
