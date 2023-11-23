@@ -12,5 +12,5 @@ A collection of explainable methods and models focuses on computer vision
 | Guided propagation| [original reference](https://arxiv.org/abs/1412.6806) |
 | Score Cam| [original reference](https://arxiv.org/abs/1910.01279) |
 | Guided-Grad-CAM| [original reference](https://arxiv.org/abs/1610.02391) |
-| | |
-| | |
+| LayerCam | |
+| Layerwise Relevance| |
