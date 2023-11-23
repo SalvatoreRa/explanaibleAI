@@ -14,4 +14,5 @@ A collection of explainable methods and models focuses on computer vision
 8. LayerCam  - [original reference](https://mmcheng.net/mftp/Papers/21TIP_LayerCAM.pdf)
 9. Layerwise Relevance -[original reference](https://www.researchgate.net/publication/335708351_Layer-Wise_Relevance_Propagation_An_Overview) 
 10. Integrated gradient - [original reference](https://arxiv.org/abs/1703.01365)
-11. Grad times images - [original reference]()
+11. Grad times images - [original reference](https://arxiv.org/abs/1605.01713)
+12. Smooth Grad - [original reference](https://arxiv.org/abs/1706.03825)
