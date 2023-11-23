@@ -17,3 +17,4 @@ A collection of explainable methods and models focuses on computer vision
 11. Grad times images - [original reference](https://arxiv.org/abs/1605.01713)
 12. Smooth Grad - [original reference](https://arxiv.org/abs/1706.03825)
 13. Optimized CNN filter visualization - [original reference](https://www.researchgate.net/publication/265022827_Visualizing_Higher-Layer_Features_of_a_Deep_Network)
+14. Layer activation with guided backpropagation - [original reference](https://arxiv.org/abs/1412.6806)
