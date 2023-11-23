@@ -16,4 +16,4 @@ A collection of explainable methods and models focuses on computer vision
 10. Integrated gradient - [original reference](https://arxiv.org/abs/1703.01365)
 11. Grad times images - [original reference](https://arxiv.org/abs/1605.01713)
 12. Smooth Grad - [original reference](https://arxiv.org/abs/1706.03825)
-13. Optimized filter visualization - [original reference](https://www.researchgate.net/publication/265022827_Visualizing_Higher-Layer_Features_of_a_Deep_Network)
+13. Optimized CNN filter visualization - [original reference](https://www.researchgate.net/publication/265022827_Visualizing_Higher-Layer_Features_of_a_Deep_Network)
