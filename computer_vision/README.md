@@ -13,4 +13,4 @@ A collection of explainable methods and models focuses on computer vision
 | Score Cam| [original reference](https://arxiv.org/abs/1910.01279) |
 | Guided-Grad-CAM| [original reference](https://arxiv.org/abs/1610.02391) |
 | LayerCam | [original reference](https://mmcheng.net/mftp/Papers/21TIP_LayerCAM.pdf)|
-| Layerwise Relevance|[original reference] |
+| Layerwise Relevance|[original reference](https://www.researchgate.net/publication/335708351_Layer-Wise_Relevance_Propagation_An_Overview) |
