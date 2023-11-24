@@ -22,4 +22,4 @@ A collection of explainable methods and models focuses on computer vision
 16. Deep Dream - [original reference](https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html)
 17. Class Specific Image Generation - [original reference](https://arxiv.org/abs/1506.06579) 
 18. LIME - [Original reference](https://arxiv.org/abs/1602.04938)
-2. Shap - [Original reference](https://arxiv.org/abs/1705.07874)
+19. Shap - [Original reference](https://arxiv.org/abs/1705.07874)
