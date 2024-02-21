@@ -6,3 +6,5 @@ Collection of explainable methods and models
 
 1. LIME - [Original reference](https://arxiv.org/abs/1602.04938)
 2. Shap - [Original reference](https://arxiv.org/abs/1705.07874)
+
+# Index
