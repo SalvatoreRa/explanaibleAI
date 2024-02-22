@@ -16,4 +16,4 @@ Collection of explainable methods and models
 
 [Explainable xgboot model using shap and lime](https://github.com/SalvatoreRa/explanaibleAI/blob/main/tabular_methods/explainability_shap%26lime.ipynb)
 
-[](https://github.com/SalvatoreRa/explanaibleAI/blob/main/tabular_methods/Captum_tabular.ipynb)
+[Explainable pytorch model on tabular data with captum](https://github.com/SalvatoreRa/explanaibleAI/blob/main/tabular_methods/Captum_tabular.ipynb)
