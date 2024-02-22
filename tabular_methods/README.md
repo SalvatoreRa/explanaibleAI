@@ -14,4 +14,6 @@ Collection of explainable methods and models
 
 [Explainable tensorflow multiclass model using Shap and model weights](https://github.com/SalvatoreRa/explanaibleAI/blob/main/tabular_methods/Explainable_tensorflow_multiclass_model_using_Shap_and_model_weights.ipynb)
 
-[explainable xgboot model using shap and lime](https://github.com/SalvatoreRa/explanaibleAI/blob/main/tabular_methods/explainability_shap%26lime.ipynb)
+[Explainable xgboot model using shap and lime](https://github.com/SalvatoreRa/explanaibleAI/blob/main/tabular_methods/explainability_shap%26lime.ipynb)
+
+[](https://github.com/SalvatoreRa/explanaibleAI/blob/main/tabular_methods/Captum_tabular.ipynb)
